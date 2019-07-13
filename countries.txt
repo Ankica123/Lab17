@@ -1,0 +1,8 @@
+usa	500000
+Germany	117889
+3	25456
+France	67000000
+Serbia	6964
+Macedonia	11887
+Croatia	78945
+Italy	125463
